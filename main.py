@@ -3,7 +3,7 @@ import sqlite3
 
 con = sqlite3.connect("bd.db")
 cur = con.cursor()
-a = cur.execute("SELECT * FROM products").fetchall()
+a = cur.execute("""SELECT * FROM products WHERE tit""")
 print(a)
 print("1с говно")
 
