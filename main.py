@@ -2,7 +2,7 @@
 import sqlite3
 con = sqlite3.connect("bd.db")
 cur = con.cursor()
-a = cur.execute("""SELECT * FROM products WHERE tit""")
+a = cur.execute("""SELECT * FROM products WHERE title""")
 print(a)
 
 
