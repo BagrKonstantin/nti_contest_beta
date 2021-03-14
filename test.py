@@ -7,4 +7,4 @@ def govno():
 
 
 print("Вы все говно")
-govno()
+print(govno())
