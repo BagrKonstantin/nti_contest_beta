@@ -7,6 +7,8 @@ a = cur.execute("""SELECT * FROM products""")
 print(a)
 print("1с говнbot dfgdfgdfafgdfgsdfgg")
 
+# ёбаные одинэсеры, я перебью ваши семьи, друзей, собак, кошек, рыбок ваших нахуй
+
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
