@@ -5,7 +5,7 @@ con = sqlite3.connect("bd.db")
 cur = con.cursor()
 a = cur.execute("""SELECT * FROM products""")
 print(a)
-print("1с говно")
+print("1с говнbot")
 
 
 # Press Shift+F10 to execute it or replace it with your code.
